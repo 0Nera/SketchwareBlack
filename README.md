@@ -2,17 +2,8 @@
 <img src="assets/Sketchware-Pro.png" />
 </p>
 
-# Sketchware Pro
-![GitHub contributors](https://img.shields.io/github/contributors/Sketchware-Pro/Sketchware-Pro) ![GitHub last commit](https://img.shields.io/github/last-commit/Sketchware-Pro/Sketchware-Pro) ![Discord server stats](https://img.shields.io/discord/790686719753846785)
-
-Here you'll find the source code of many classes in Sketchware Pro, and more importantly, **the**
-place to contribute to Sketchware Pro.
-
-There are a few things that you should consider before contributing to Sketchware Pro:
-
- - Make sure that you're capable to mod.
- - Showing off on other contributors is seriously **not** allowed. We're a community.
- - Tell why exactly you've made a change to something, at best in the commit's extended description.
+# Sketchware Nera Edition
+Sketchware Nera Edition is fork [Sketchware Pro](https://github.com/Sketchware-Pro/Sketchware-Pro).
 
 ## How to contribute
 
@@ -49,8 +40,7 @@ You can also check the `mod` package that has the majority of contributors' chan
 
 ## Contributing
 
-Fork this repository and contribute back using
-[pull requests](https://github.com/Sketchware-Pro/Sketchware-Pro/pulls).
+
 
 Any contributions, large or small, major features, bug fixes, are welcomed and appreciated, but will
 be thoroughly reviewed.
@@ -88,15 +78,7 @@ Examples:
  - `refactor: Reformat code at File.java`
 
 
-## Thanks for contributing
-They help keeping Sketchware Pro alive. Each (helpful) accepted contribution will get noted down
-in the "About Modders" activity. We'll use your GitHub name and profile picture initially, but they can be
-changed of course.
 
-## Discord
-Wanna chat with us, talk about changes or just hang out? We have a Discord server just for that.
-
-[![Join our Discord server!](https://invidget.switchblade.xyz/kq39yhT4rX)](http://discord.gg/kq39yhT4rX)
 
 ## Disclaimer
 This mod was not meant for any harmful purposes, such as harming Sketchware; Quite the opposite actually.
